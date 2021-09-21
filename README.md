@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Muammer Metin
 - 👀 .Net Masaüstü Progralarıyla ilgi
-- 🌱 I’m currently learning C^#
-- 💞️ I’m looking to collaborate on ..
+- 🌱 Şu anda C# öğreniyorum
+ Bu alanda Kendimi geliştirmek İstiyorum  
 - 📫 How to reach me ...
 
 <!---
