@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Muammer Metin
-- 👀 .Net Masaüstü Progralarıyla ilgi
+- 👀 .Net Masaüstü Programlarına  ilgi Duyuyorum
 - 🌱 Şu anda C# öğreniyorum
  Bu alanda Kendimi geliştirmek İstiyorum  
 - 📫 How to reach me ...
